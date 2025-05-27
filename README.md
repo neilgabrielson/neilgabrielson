@@ -30,5 +30,6 @@ See more on my [reading page](https://neilgabrielson.com/books.html)!
 ## Contact
 
 - **Website**: [neilgabrielson.com](https://neilgabrielson.com)
-- **Email**: nagabrielson@gmail.com
+- **Personal Email**: nagabrielson@gmail.com
+- **School Email**: gabrielson.n@northeastern.edu
 - **LinkedIn**: [linkedin.com/in/neilgabrielson](https://linkedin.com/in/neilgabrielson)
