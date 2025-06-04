@@ -27,7 +27,7 @@ I'm an undergraduate mathematics student at **Northeastern University**! Learn m
 - *Gödel, Escher, Bach* by Douglas Hofstadter
 - *Algebra* by Michael Artin (for self-study)
 
-See more on my [goodreads](https://www.goodreads.com/user/show/99613659-neil-gabrielson) or my [reading page](https://neilgabrielson.com/books.html)!
+See more on my [goodreads](https://www.goodreads.com/neilgabrielson) or my [reading page](https://neilgabrielson.com/books.html)!
 
 ## Contact
 
