@@ -10,6 +10,7 @@ I'm an undergraduate mathematics student at **Northeastern University**! Learn m
 ## What I'm Working On
 
 - **[Waves & Excitability](https://github.com/CoposGroup/WavesExcitability)** - PDE simulations for biological pattern formation (REU project)
+- **[Personal Website](https://github.com/neilgabrielson/)** - Information about me, what I'm working on, and what I'm reading
 - **[Fractal Plotter](https://github.com/neilgabrielson/fractals)** - Interactive fractal plotter with Mandelbrot/Julia set visualization
 
 ## Technologies & Tools
@@ -17,15 +18,16 @@ I'm an undergraduate mathematics student at **Northeastern University**! Learn m
 **Languages**: Python, JavaScript, HTML/CSS, MATLAB  
 **Libraries**: NumPy, SciPy, Matplotlib, Canvas API  
 **Mathematics**: PDEs, Complex Analysis, Abstract Algebra, Numerical Methods  
-**Tools**: Git, LaTeX, Jupyter Notebooks
+**Tools**: Git, LaTeX, Jupyter Notebooks, Unity
 
 ## What I'm Reading
 
 - *Collected Fictions* by Jorge Luis Borges
+- *Pale Fire* by Vladimir Nabokov
 - *Gödel, Escher, Bach* by Douglas Hofstadter
 - *Algebra* by Michael Artin (for self-study)
 
-See more on my [reading page](https://neilgabrielson.com/books.html)!
+See more on my [goodreads](https://www.goodreads.com/user/show/99613659-neil-gabrielson) or my [reading page](https://neilgabrielson.com/books.html)!
 
 ## Contact
 
