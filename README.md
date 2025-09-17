@@ -17,7 +17,7 @@ I'm an undergraduate mathematics student at **Northeastern University**! Learn m
 
 **Languages**: Python, JavaScript, HTML/CSS, MATLAB  
 **Libraries**: NumPy, SciPy, Matplotlib, Canvas API  
-**Mathematics**: PDEs, Complex Analysis, Abstract Algebra, Numerical Methods  
+**Mathematics**: PDEs, Abstract Algebra, Real Analysis, Complex Analysis  
 **Tools**: Git, LaTeX, Jupyter Notebooks, Unity
 
 ## What I'm Reading
