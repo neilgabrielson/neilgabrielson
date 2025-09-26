@@ -3,6 +3,8 @@
 ## About Me
 I'm an undergraduate mathematics student at **Northeastern University**! Learn more about me on my **[Personal Website](https://neilgabrielson.com)**
 
+Also check out my **[Interactive Fractal Plotter!](https://neilgabrielson.com/fractals)**
+
 **Academics**: I am currently studying Algebra, Real Analysis, and Complex Analysis
 
 **Interests**: Playing guitar, visiting art museums, reading old books, hiking, traveling, and drinking coffee ☕  
