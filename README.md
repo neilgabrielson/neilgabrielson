@@ -1,7 +1,7 @@
 # Hi! I'm Neil Gabrielson
 
 ## About Me
-I'm an undergraduate mathematics student at **Northeastern University**! I'm currently on co-op model cell-surface protein dynamics with the **[Copos Lab](https://calinacopos.github.io). Learn more about me on my **[Personal Website](https://neilgabrielson.com)**!
+I'm an undergraduate mathematics student at **Northeastern University**! I'm currently on co-op model cell-surface protein dynamics with the **[Copos Lab](https://calinacopos.github.io)**. Learn more about me on my **[Personal Website](https://neilgabrielson.com)**!
 
 **Interests**: Playing guitar, visiting art museums, reading old books, hiking, traveling, and drinking coffee ☕  
 
